@@ -75,6 +75,15 @@ docs/_build/
 .pybuilder/
 target/
 
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
